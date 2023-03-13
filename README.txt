@@ -1,1 +1,1 @@
-readme
+Issues中分享了Apollo8.0源码安装的方法以及本人在学习Apollo8.0过程中遇到的一些bug及解决方法，有些bug还没有解决，欢迎讨论，持续更新ing。
